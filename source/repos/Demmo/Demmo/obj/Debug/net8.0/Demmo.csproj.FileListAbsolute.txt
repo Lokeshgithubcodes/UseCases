@@ -1,0 +1,14 @@
+C:\Users\Ramisettylokesh\source\repos\Demmo\Demmo\bin\Debug\net8.0\Demmo.exe
+C:\Users\Ramisettylokesh\source\repos\Demmo\Demmo\bin\Debug\net8.0\Demmo.deps.json
+C:\Users\Ramisettylokesh\source\repos\Demmo\Demmo\bin\Debug\net8.0\Demmo.runtimeconfig.json
+C:\Users\Ramisettylokesh\source\repos\Demmo\Demmo\bin\Debug\net8.0\Demmo.dll
+C:\Users\Ramisettylokesh\source\repos\Demmo\Demmo\bin\Debug\net8.0\Demmo.pdb
+C:\Users\Ramisettylokesh\source\repos\Demmo\Demmo\obj\Debug\net8.0\Demmo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ramisettylokesh\source\repos\Demmo\Demmo\obj\Debug\net8.0\Demmo.AssemblyInfoInputs.cache
+C:\Users\Ramisettylokesh\source\repos\Demmo\Demmo\obj\Debug\net8.0\Demmo.AssemblyInfo.cs
+C:\Users\Ramisettylokesh\source\repos\Demmo\Demmo\obj\Debug\net8.0\Demmo.csproj.CoreCompileInputs.cache
+C:\Users\Ramisettylokesh\source\repos\Demmo\Demmo\obj\Debug\net8.0\Demmo.dll
+C:\Users\Ramisettylokesh\source\repos\Demmo\Demmo\obj\Debug\net8.0\refint\Demmo.dll
+C:\Users\Ramisettylokesh\source\repos\Demmo\Demmo\obj\Debug\net8.0\Demmo.pdb
+C:\Users\Ramisettylokesh\source\repos\Demmo\Demmo\obj\Debug\net8.0\Demmo.genruntimeconfig.cache
+C:\Users\Ramisettylokesh\source\repos\Demmo\Demmo\obj\Debug\net8.0\ref\Demmo.dll
